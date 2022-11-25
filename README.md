@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Sanjay Prasad
+Hi, I'm Sanjay Prasad, I am Data Science Enthusiast.
 
 
 ## 🌐 Socials:
