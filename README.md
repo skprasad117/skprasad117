@@ -17,7 +17,6 @@
 <h align = "center" >A passionate Data Science Enthusiast from India</h3>
 
 <h2 align = "Left">💫 About Me :</h2>
-<hr>
 <ul align = "left">
 <li>🔭 I’m currently working on <b>Shipment Price Prediction Project</b> <a href="">Visit (Update Soon)</a></li>
 <li>🌱 I'm currently learning <b>Deep Learning</b></li>
@@ -28,7 +27,6 @@
 </ul>
 
 <h2 align = "Left">🔭 Projects :</h2>
-<hr>
 <ul align = "Left">
 <li><b>Air Pressure Sensor Fault Detection</b><a href="https://github.com/skprasad117/APS-Fault-Detection"> Visit 🔗</a></li>
 <li><b>Sales Management</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiZjIzMDEyMzYtYzc5Ni00MDg2LTkxM2YtMmM5NmMzYmNkZWJkIiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection"> Visit 🔗</a></li>
@@ -36,7 +34,6 @@
 <li><b>Youtube Scrapper</b><a href=""> Visit 🔗</a><a href="https://github.com/skprasad117/Youtube-Webscrapper-Python"></a><a href="https://www.youtube.com/watch?v=WI-xbVW0sqY&ab_channel=SANJAYPRASAD"> Demo Video 🔗</a></li></ul>
 
 <h2 align = "Left">🔭 Skills :</h2>
-<hr>
 
 <ul align = "Left">
 <!--Programming Languages -->
@@ -75,14 +72,13 @@
 
 
 <h2 align = "Left">📝 My Latest Blog Post in Medium :</h2>
-<hr>
 <!--<p align = "left">I enjoy sharing my thoughts and insights on Medium about Data Science, machine learning, and related topics. Be sure to check out my articles!</p>-->
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@skprasad117/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@skprasad117/0" alt="Recent Article 0"></a>
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@skprasad117/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@skprasad117/1" alt="Recent Article 1"></a>
 
 <h2 align = "Left">📊 GitHub Stats :</h2>
-<hr>
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=skprasad117&show_icons=true&locale=en&layout=compact" alt="skprasad117" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skprasad117&" alt="skprasad117" />
 <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=skprasad117&show_icons=true&locale=en&layout=compact" alt="skprasad117" /> 
