@@ -14,7 +14,9 @@
 </div>
 
 <h1 align = "center" >Hi 👋, I'm Sanjay Kumar Prasad</h1>
-<h align = "center" >A passionate Data Science Enthusiast from India</h3>
+<h3 align = "center" >A passionate Data Science Enthusiast from India</h3>
+<p align = "center" >Actively Looking for an opprtunity. Here is my Resume<a href="https://github.com/skprasad117/skprasad117/blob/main/github%201.pdf"> Visit 🔗</a> </p>
+ 
 
 <h2 align = "Left">💫 About Me :</h2>
 <ul align = "left">
@@ -31,6 +33,7 @@
 <li><b>Air Pressure Sensor Fault Detection</b><a href="https://github.com/skprasad117/APS-Fault-Detection"> Visit 🔗</a></li>
 <li><b>Sales Management</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiZjIzMDEyMzYtYzc5Ni00MDg2LTkxM2YtMmM5NmMzYmNkZWJkIiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection"> Visit 🔗</a></li>
 <li><b>Superstore Report</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiOTI5MWFhZmQtM2MwMy00ZjhjLWE2MTUtMmU5ZWRmODZhNTI0IiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9"> Visit 🔗</a></li>
+<li><b>RESTCountries API</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiZjczYmVkOTEtMDcyYy00NDBlLWE1NjgtYjE2NmIzNDQ3Y2E4IiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection"> Visit 🔗</a></li>
 <li><b>Youtube Scrapper</b><a href=""> Visit 🔗</a><a href="https://github.com/skprasad117/Youtube-Webscrapper-Python"></a><a href="https://www.youtube.com/watch?v=WI-xbVW0sqY&ab_channel=SANJAYPRASAD"> Demo Video 🔗</a></li></ul>
 
 <h2 align = "Left">🔭 Skills :</h2>
