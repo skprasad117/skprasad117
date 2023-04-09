@@ -31,9 +31,10 @@
 <h2 align = "Left">🔭 Projects :</h2>
 <ul align = "Left">
 <li><b>Air Pressure Sensor Fault Detection</b><a href="https://github.com/skprasad117/APS-Fault-Detection"> Visit 🔗</a></li>
+<li>PWC PhoneNow Data Analysis<a href="https://github.com/skprasad117/PWC_PhoneNow_Data_Analysis"> Visit 🔗</a></li>
+<li>Global Insights: A Power BI Dashboard of Country Information<a href="https://github.com/skprasad117/Global-Insights-Visualizing-Country-Data-with-Power-BI"> Visit 🔗</a></li>
 <li><b>Sales Management</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiZjIzMDEyMzYtYzc5Ni00MDg2LTkxM2YtMmM5NmMzYmNkZWJkIiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection"> Visit 🔗</a></li>
 <li><b>Superstore Report</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiOTI5MWFhZmQtM2MwMy00ZjhjLWE2MTUtMmU5ZWRmODZhNTI0IiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9"> Visit 🔗</a></li>
-<li><b>RESTCountries API</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiZjczYmVkOTEtMDcyYy00NDBlLWE1NjgtYjE2NmIzNDQ3Y2E4IiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection"> Visit 🔗</a></li>
 <li><b>Youtube Scrapper</b><a href=""> Visit 🔗</a><a href="https://github.com/skprasad117/Youtube-Webscrapper-Python"></a><a href="https://www.youtube.com/watch?v=WI-xbVW0sqY&ab_channel=SANJAYPRASAD"> Demo Video 🔗</a></li></ul>
 
 <h2 align = "Left">🔭 Skills :</h2>
