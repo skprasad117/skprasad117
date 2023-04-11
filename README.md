@@ -40,7 +40,7 @@
 <li>Bike Sales Excel Dashboard<a href="https://github.com/skprasad117/Bike-Sales-Excel-Dashboard"> Visit 🔗</a></li>
 <li><b>Sales Management</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiZjIzMDEyMzYtYzc5Ni00MDg2LTkxM2YtMmM5NmMzYmNkZWJkIiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection"> Visit 🔗</a></li>
 <li><b>Superstore Report</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiOTI5MWFhZmQtM2MwMy00ZjhjLWE2MTUtMmU5ZWRmODZhNTI0IiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9"> Visit 🔗</a></li>
-<li><b>Youtube Scrapper</b><a href=""> Visit 🔗</a><a href="https://github.com/skprasad117/Youtube-Webscrapper-Python"></a><a href="https://www.youtube.com/watch?v=WI-xbVW0sqY&ab_channel=SANJAYPRASAD"> Demo Video 🔗</a></li></ul>
+<li><b>Youtube Scrapper</b><a href="https://github.com/skprasad117/Youtube-Webscrapper-Python"> Visit 🔗</a><a href="https://www.youtube.com/watch?v=WI-xbVW0sqY&ab_channel=SANJAYPRASAD"> Demo Video 🔗</a></li></ul>
 
 <h2 align = "Left">🔭 Skills :</h2>
 
