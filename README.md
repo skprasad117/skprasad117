@@ -18,7 +18,7 @@
 
 <h1 align = "center" >Hi 👋, I'm Sanjay Kumar Prasad</h1>
 <h3 align = "center" >A passionate Data Science Enthusiast from India</h3>
-<p align = "center" >Actively Looking for an opprtunity. Here is my Resume<a href="https://github.com/skprasad117/skprasad117/blob/main/github%201.pdf"> Visit 🔗</a> </p>
+<p align = "center" >Actively Looking for an opprtunity. Here is my Resume<a href="https://github.com/skprasad117/skprasad117/blob/main/sanjay%20kumar%20prasad%20github.pdf"> Visit 🔗</a> </p>
  
 
 <h2 align = "Left">💫 About Me :</h2>
