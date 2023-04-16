@@ -33,7 +33,7 @@
 
 <h2 align = "Left">🔭 Projects :</h2>
 <ul align = "Left">
-<li><b>Air Pressure Sensor Fault Detection</b><a href="https://github.com/skprasad117/APS-Fault-Detection"> Visit 🔗</a></li>
+<li><b>Predicting APS Failures in Scania Trucks using Machine Learning</b><a href="https://github.com/skprasad117/Predicting-APS-Failures-in-Scania-Trucks-using-Machine-Learning/tree/main"> Visit 🔗</a></li>
 <li>PWC PhoneNow Customer Churn Analysis<a href="https://github.com/skprasad117/PWC-PhoneNow-Customer-Churn-Analysis"> Visit 🔗</a></li>
 <li>PWC PhoneNow Data Analysis<a href="https://github.com/skprasad117/PWC_PhoneNow_Data_Analysis"> Visit 🔗</a></li>
 <li>Global Insights: A Power BI Dashboard of Country Information<a href="https://github.com/skprasad117/Global-Insights-Visualizing-Country-Data-with-Power-BI"> Visit 🔗</a></li>  
