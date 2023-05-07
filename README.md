@@ -12,36 +12,44 @@
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <img src="https://visitcount.itsvg.in/api?id=skprasad117&icon=6&color=1" alt="Medium Badge"/>
-
-
 </div>
-
 <h1 align = "center" >Hi 👋, I'm Sanjay Kumar Prasad</h1>
 <h3 align = "center" >A passionate Data Science Enthusiast from India</h3>
 <p align = "center" >Actively Looking for an opprtunity. Here is my Resume<a href="https://github.com/skprasad117/skprasad117/blob/main/sanjay%20kumar%20prasad%20github.pdf"> Visit 🔗</a> </p>
+
+ <!--------------------------------------------------------------------------------------------------------------------------------------------->
+<div align = "left">
+
+## About Me
+- 🔭 I’m currently working on **Shipment Price Prediction Project**
+- 🌱 I'm currently learning **Deep Learning**
+- 👯 I'm looking to collaborate on **Data Science Projects**
+- 💬 Ask me about **Python, Machine Learning, Deep Learning**
+- 📝 I regularly write articles on [skprasad117.medium.com](https://skprasad117.medium.com)
+- 📫 How to reach me: **skprasad117@gmail.com**
+
+## Projects
+
+### Machine Learning
+- [Predicting APS Failures in Scania Trucks](https://github.com/skprasad117/Predicting-APS-Failures-in-Scania-Trucks-using-Machine-Learning/tree/main)
+
+
+### Data Visualization
+- [PWC PhoneNow Customer Churn Analysis](https://github.com/skprasad117/PWC-PhoneNow-Customer-Churn-Analysis)
+- [PWC PhoneNow Data Analysis](https://github.com/skprasad117/PWC_PhoneNow_Data_Analysis)
+- [Global Insights: A Power BI Dashboard of Country Information](https://github.com/skprasad117/Global-Insights-Visualizing-Country-Data-with-Power-BI)
+- [Bike Sales Excel Dashboard](https://github.com/skprasad117/Bike-Sales-Excel-Dashboard)
+- [Sales Management Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjIzMDEyMzYtYzc5Ni00MDg2LTkxM2YtMmM5NmMzYmNkZWJkIiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection)
+- [Superstore Report Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTI5MWFhZmQtM2MwMy00ZjhjLWE2MTUtMmU5ZWRmODZhNTI0IiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9)
+
+### Web Scraping
+- [YouTube Scraper](https://github.com/skprasad117/Youtube-Webscrapper-Python)
+
+## Notes and Study Materials
+- [Feature Engineering Techniques](https://github.com/skprasad117/Feature-Engineering-Techniques)
+
+ <!--------------------------------------------------------------------------------------------------------------------------------------------->
  
-
-<h2 align = "Left">💫 About Me :</h2>
-<ul align = "left">
-<li>🔭 I’m currently working on <b>Shipment Price Prediction Project</b> <a href="">Visit (Update Soon)</a></li>
-<li>🌱 I'm currently learning <b>Deep Learning</b></li>
-<li>👯 I'm looking to collaborate on <b>Data Science Projects</b></li>
-<li>💬 Ask me about <b>Python, Machine Learning, Deep Learning</b></li>
-<li>📝 I regularly write articles on <a href="https://skprasad117.medium.com">skprasad117.medium.com</a></li>
-<li>📫 How to reach me <b>skprasad117@gmail.com</b></li>
-</ul>
-
-<h2 align = "Left">🔭 Projects :</h2>
-<ul align = "Left">
-<li><b>Predicting APS Failures in Scania Trucks using Machine Learning</b><a href="https://github.com/skprasad117/Predicting-APS-Failures-in-Scania-Trucks-using-Machine-Learning/tree/main"> Visit 🔗</a></li>
-<li>PWC PhoneNow Customer Churn Analysis<a href="https://github.com/skprasad117/PWC-PhoneNow-Customer-Churn-Analysis"> Visit 🔗</a></li>
-<li>PWC PhoneNow Data Analysis<a href="https://github.com/skprasad117/PWC_PhoneNow_Data_Analysis"> Visit 🔗</a></li>
-<li>Global Insights: A Power BI Dashboard of Country Information<a href="https://github.com/skprasad117/Global-Insights-Visualizing-Country-Data-with-Power-BI"> Visit 🔗</a></li>  
-<li>Bike Sales Excel Dashboard<a href="https://github.com/skprasad117/Bike-Sales-Excel-Dashboard"> Visit 🔗</a></li>
-<li><b>Sales Management</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiZjIzMDEyMzYtYzc5Ni00MDg2LTkxM2YtMmM5NmMzYmNkZWJkIiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection"> Visit 🔗</a></li>
-<li><b>Superstore Report</b> Power BI Report<a href="https://app.powerbi.com/view?r=eyJrIjoiOTI5MWFhZmQtM2MwMy00ZjhjLWE2MTUtMmU5ZWRmODZhNTI0IiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9"> Visit 🔗</a></li>
-<li><b>Youtube Scrapper</b><a href="https://github.com/skprasad117/Youtube-Webscrapper-Python"> Visit 🔗</a><a href="https://www.youtube.com/watch?v=WI-xbVW0sqY&ab_channel=SANJAYPRASAD"> Demo Video 🔗</a></li></ul>
-
 <h2 align = "Left">🔭 Skills :</h2>
 
 <ul align = "Left">
@@ -91,3 +99,4 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=skprasad117&show_icons=true&locale=en&layout=compact" alt="skprasad117" />
 <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=skprasad117&" alt="skprasad117" />
 <img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=skprasad117&show_icons=true&locale=en&layout=compact" alt="skprasad117" /> 
+  </div>
