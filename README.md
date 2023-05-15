@@ -35,6 +35,7 @@
 
 
 ### Data Visualization
+- [Telangana Government Tourism Department Dashboard](https://github.com/skprasad117/Telangana-Government-Tourism-Department)
 - [PWC PhoneNow Customer Churn Analysis](https://github.com/skprasad117/PWC-PhoneNow-Customer-Churn-Analysis)
 - [PWC PhoneNow Data Analysis](https://github.com/skprasad117/PWC_PhoneNow_Data_Analysis)
 - [Global Insights: A Power BI Dashboard of Country Information](https://github.com/skprasad117/Global-Insights-Visualizing-Country-Data-with-Power-BI)
