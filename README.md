@@ -32,6 +32,7 @@
 
 ### Machine Learning
 - [Predicting APS Failures in Scania Trucks](https://github.com/skprasad117/Predicting-APS-Failures-in-Scania-Trucks-using-Machine-Learning/tree/main)
+- [Predicting-Student-Performance-Using-Machine-Learning](https://github.com/skprasad117/Predicting-Student-Performance-Using-Machine-Learning)
 
 
 ### Data Visualization
