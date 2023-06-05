@@ -33,6 +33,7 @@
 ### Machine Learning
 - [Predicting APS Failures in Scania Trucks](https://github.com/skprasad117/Predicting-APS-Failures-in-Scania-Trucks-using-Machine-Learning/tree/main) End-to-End
 - [Predicting-Student-Performance-Using-Machine-Learning](https://github.com/skprasad117/Predicting-Student-Performance-Using-Machine-Learning) End-to-End
+- [Obesity-Type-Classifier-SupervisedML-Project](https://github.com/skprasad117/Obesity-Type-Classifier-SupervisedML-Project) End-to-End
 
 
 ### Data Visualization
