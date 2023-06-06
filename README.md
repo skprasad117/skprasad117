@@ -45,8 +45,11 @@
 - [Sales Management Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiZjIzMDEyMzYtYzc5Ni00MDg2LTkxM2YtMmM5NmMzYmNkZWJkIiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9&pageName=ReportSection)
 - [Superstore Report Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiOTI5MWFhZmQtM2MwMy00ZjhjLWE2MTUtMmU5ZWRmODZhNTI0IiwidCI6IjM1NDNjNGI4LWY2MmUtNGZmOS04YTJiLWM4M2Y5ZGM5NGI2MCJ9)
 
-### Web Scraping
+### Python Projects
 - [YouTube Scraper](https://github.com/skprasad117/Youtube-Webscrapper-Python)
+- [Identifying Part of Speech from English Language using Python](https://github.com/skprasad117/Identifying-Part-of-Speech-from-English-Language-using-Python)
+- [JSON to CSV XLSX Converter](https://github.com/skprasad117/JSON-to-CSV-XLSX-Converter)
+- [Word Frequency Analyzer Using Python](https://github.com/skprasad117/Word-Frequency-Analyzer-Using-Python)
 
 ## Notes and Study Materials
 - [Feature Engineering Techniques](https://github.com/skprasad117/Feature-Engineering-Techniques)
