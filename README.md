@@ -51,6 +51,8 @@
 - [JSON to CSV XLSX Converter](https://github.com/skprasad117/JSON-to-CSV-XLSX-Converter)
 - [Word Frequency Analyzer Using Python](https://github.com/skprasad117/Word-Frequency-Analyzer-Using-Python)
 
+### Django Projects
+- [Multiple_Image_Upload](https://github.com/skprasad117/Multiple_Image_Upload)
 ## Notes and Study Materials
 - [Feature Engineering Techniques](https://github.com/skprasad117/Feature-Engineering-Techniques)
 
