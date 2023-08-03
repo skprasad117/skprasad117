@@ -52,7 +52,8 @@
 - [Word Frequency Analyzer Using Python](https://github.com/skprasad117/Word-Frequency-Analyzer-Using-Python)
 
 ### Django Projects
-- [Multiple_Image_Upload](https://github.com/skprasad117/Multiple_Image_Upload)
+- [Django ChatApp Using Channels](https://github.com/skprasad117/DjangoChatRoom)
+- [Multiple_Image_Upload](https://github.com/skprasad117/Multiple_Image_Upload) 
 ## Notes and Study Materials
 - [Feature Engineering Techniques](https://github.com/skprasad117/Feature-Engineering-Techniques)
 
