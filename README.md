@@ -99,7 +99,7 @@
 
 <h2 align = "Left">📝 My Latest Blog Post in Medium :</h2>
 <!--<p align = "left">I enjoy sharing my thoughts and insights on Medium about Data Science, machine learning, and related topics. Be sure to check out my articles!</p>-->
-
+<a align = "Left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@skprasad117/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@skprasad117/2" alt="Recent Article 2"></a>
 <a align = "Left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@skprasad117/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@skprasad117/0" alt="Recent Article 0"></a>
 <a align = "Left" target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@skprasad117/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@skprasad117/1" alt="Recent Article 1"></a>
 
