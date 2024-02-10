@@ -22,7 +22,7 @@
 
 ## About Me
 - 🔭 I’m currently working on **Shipment Price Prediction Project**
-- 🌱 I'm currently learning **Deep Learning**
+- 🌱 I'm currently learning about **Genrative AI**
 - 👯 I'm looking to collaborate on **Data Science Projects**
 - 💬 Ask me about **Python, Machine Learning, Deep Learning**
 - 📝 I regularly write articles on [skprasad117.medium.com](https://skprasad117.medium.com)
